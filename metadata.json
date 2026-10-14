@@ -1,0 +1,6 @@
+{
+  "name": "SEOUL: LAST STAND",
+  "description": "외계 침공과 바이러스로 점령당한 서울을 탈환하는 2D 횡스크롤 런앤건 슈팅 게임. 4명의 특수작전팀과 8개 스테이지 전격 수록.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
